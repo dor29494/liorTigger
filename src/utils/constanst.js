@@ -1,0 +1,1 @@
+export const defaultClientInfo = {fullName: null,phone:null,email: null}
